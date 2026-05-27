@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentctringify",
+        "uuid": 17750577,
+        "checksum": "ykzupr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
